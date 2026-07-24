@@ -1,0 +1,6 @@
+{
+  "name": "Work.net Devs",
+  "description": "Complete Enterprise Operations Suite v3.0 - Categorized Sidebar, Professional Trello/ClickUp Kanban, Multi-Department Task Manager, Real-time Team Chat & Google Meet Sync, Accounts & Finance (Daily Expenses, Monthly Bills, Payroll & Invoicing), HR Management (Staff Directory, Contracts Generator, Hierarchy Org Chart, SOPs & KPIs), and Executive Intelligence Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
